@@ -1,0 +1,1 @@
+CrossOver 26.3.0 LGPL 소스: https://media.codeweavers.com/pub/crossover/source/crossover-sources-26.3.0.tar.gz
